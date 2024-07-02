@@ -43,7 +43,7 @@ A comprehensive roadmap and curated resources for aspiring AI Engineers, coverin
 	
 ### Practical Projects
 
- - [300+ Practical Data Science Projects to Practice]()
+ - [300+ Practical Data Science Projects to Practice](https://github.com/cybergeekgyan/Zero-to-AI-Engineer-Roadmap-and-Resources/blob/main/Projects.md)
 
 ### Advanced Topics and Specialization
 - Natural Language Processing (NLP)
