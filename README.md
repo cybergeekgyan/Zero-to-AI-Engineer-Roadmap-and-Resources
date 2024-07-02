@@ -5,11 +5,6 @@ A comprehensive roadmap and curated resources for aspiring AI Engineers, coverin
 
 ## Table of Contents
 
-### Introduction
-
-- Overview of the Repository
-- How to Use This Roadmap
-
 ### Foundational Knowledge
 
  - [Linear Algebra]()
@@ -52,4 +47,4 @@ A comprehensive roadmap and curated resources for aspiring AI Engineers, coverin
 - Object Detection and Segmentation
 - Reinforcement Learning (Advanced)
 - Deep Q-Networks (DQNs)
-	•	Applications
+  - Applications
