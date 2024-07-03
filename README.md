@@ -5,7 +5,7 @@ A comprehensive roadmap and curated resources for aspiring AI Engineers, coverin
 
 ## Table of Contents
 
-### Foundational Knowledge
+### 🧰 Foundational Knowledge
 
  - [Linear Algebra]()
  - [Calculus]()
@@ -13,35 +13,92 @@ A comprehensive roadmap and curated resources for aspiring AI Engineers, coverin
  - [Optimization Theory]()
  - [Information Theory]()
 
-### Computer Science Fundamentals
+### 💻 Computer Science Fundamentals
 
 - [Programming Languages]()
   - [Python]()
   - [R]()
-- Data Structures and Algorithms
-- SQL and DBMS
-- Computer Networks
-- Operating Systems
-- Computer Architecture
+- [Data Structures and Algorithms]()
+- [Object Oriented Programming Concepts(OOPS)]()
+- [SQL and DBMS]()
+- [Computer Networks]()
+- [Operating Systems]()
+- [Computer Architecture]()
 
-### Core AI Concepts
-- Machine Learning
- - Supervised Learning
- - Unsupervised Learning
- - Semi-Supervised Learning
- - Reinforcement Learning
- - Deep Learning
-  - Neural Networks
-	- Convolutional Neural Networks (CNNs)
-  - Recurrent Neural Networks (RNNs)
-	- Transformers
+### 🔥 Data Concepts
+
+- [Data Analysis, Manipulation and Cleaning]()
+	 - Data Cleaning Techniques (*Handling Missing Values, Outlier Detection*)
+	 - Data Preprocessing (Normalization, Standardization)
+	 - Feature Engineering
+- [Data Visualization]()
+	 - Data Visualization Libraries (Matplotlib, Seaborn, ggplot2)
+	 - Dashboarding Tools (Tableau, Power BI) 
+	 - Open-Source Tools: Apache Superset, Redash
+
+- [Data Engineering]()
+   - Fundamentals of Data Engineering
+   - ETL (Extract, Transform, Load) Processes
+   - ELT (Extract, Load, Transform) Processes
+   - Data Warehousing Concepts
+   - Batch Processing
+     - Spark/PySpark 
+   - Data Pipelines and Workflow Management
+     - Apache Airflow
+   - Deploying Data Pipelines in Production
+   - Real-Time Streaming
+     - Apache Kafka
+   - Cloud Computing
+     - AWS
+     - GCP
+     - Azure
+   - DataOps
+     - Docker
+     - Kubernetes
+   - Modern Data Stack
+     - [Dbt](https://www.getdbt.com/dbt-learn/)
+     - [Airbyte](https://airbyte.com/)
+     - [Fivetran](https://www.fivetran.com/)
+   - 📚 Recommended Books
+     - [Designing Data-Intensive Applications]()
+     - [Fundamentals of Data Engineering]() 
+     - [The Data Warehouse Toolkit]()
+	 
+- [Big Data Technologies]()
+    - Fundamentals of Big Data
+    - Databases: Relational Databases: MySQL, PostgreSQL, NoSQL: MongoDB, Cassandra
+    - Hadoop Ecosystem (HDFS, MapReduce, Hive, Pig)
+    - Apache Spark (RDDs, Spark SQL, MLlib)
+    - Distributed Computing Concepts
+    - Data Warehouses (Amazon Redshift, Google BigQuery, Snowflake, Azure Synapse)
+
+
+    
+- [Time Series Analysis]()
+
+### 🟢 Core AI Concepts
+
+- [Machine Learning]()
+	 - [Supervised Learning]()
+	 - [Unsupervised Learning]()
+	 - [Semi-Supervised Learning]()
+	 - [Reinforcement Learning]()
+	 - [Swarn Intelligence (ASI)]()
+- [Deep Learning]()
+  - [Neural Networks]()
+	- [Convolutional Neural Networks (CNNs)]()
+        - [ANNs]()
+        - [Recurrent Neural Networks (RNNs)]()
+
+ 
 	
 ### Practical Projects
 
  - [300+ Practical Data Science Projects to Practice](https://github.com/cybergeekgyan/Zero-to-AI-Engineer-Roadmap-and-Resources/blob/main/Projects.md)
 
 ### Advanced Topics and Specialization
-- Natural Language Processing (NLP)
+- [Natural Language Processing (NLP)]()
+- [Transformers]()
 - Advanced NLP Techniques
 - Computer Vision/Image Processing
 - Object Detection and Segmentation
