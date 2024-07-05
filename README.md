@@ -29,6 +29,15 @@ A comprehensive roadmap and curated resources for aspiring AI Engineers, coverin
 
 - [Data Analysis, Manipulation and Cleaning]()
 	 - Data Cleaning Techniques (*Handling Missing Values, Outlier Detection*)
+         - Automated EDA Tools 
+           - [SweetViz](https://github.com/fbdesignpro/sweetviz?utm_source=substack&utm_medium=email)
+           - [ydata-profiling](https://github.com/ydataai/ydata-profiling?utm_source=substack&utm_medium=email)
+           - [DataPrep](https://github.com/sfu-db/dataprep?utm_source=substack&utm_medium=email)
+           - [AutoViz](https://github.com/AutoViML/AutoViz?utm_source=substack&utm_medium=email)
+           - [D-Tale](https://github.com/man-group/dtale?utm_source=substack&utm_medium=email)
+           - [dabl](https://dabl.github.io/stable/?utm_source=substack&utm_medium=email)
+           - [QuickDA](https://github.com/sid-the-coder/QuickDA?utm_source=substack&utm_medium=email)
+           - [Lux](https://lux-api.readthedocs.io/en/latest/?utm_source=substack&utm_medium=email)
 	 - Data Preprocessing (Normalization, Standardization)
 	 - Feature Engineering
 - [Data Visualization]()
