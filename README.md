@@ -9,7 +9,8 @@ A comprehensive roadmap and curated resources for aspiring AI Engineers, coverin
 
  - [Linear Algebra]()
  - [Calculus]()
- - [Probability and Statistics]()
+ - [Probability Theory]()
+ - [Statistics]()
  - [Optimization Theory]()
  - [Information Theory]()
 
