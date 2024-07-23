@@ -25,6 +25,7 @@ A comprehensive roadmap and curated resources for aspiring AI Engineers, coverin
 - [Computer Networks]()
 - [Operating Systems]()
 - [Computer Architecture]()
+- [Compilers]() - *not necessary*
 
 ### 🔥 Data Concepts
 
@@ -42,7 +43,7 @@ A comprehensive roadmap and curated resources for aspiring AI Engineers, coverin
 	 - Data Preprocessing (Normalization, Standardization)
 	 - Feature Engineering
 - [Data Visualization]()
-	 - Data Visualization Libraries (Matplotlib, Seaborn, ggplot2)
+	 - Data Visualization Libraries (Matplotlib, Seaborn, plotly, ggplot2)
 	 - Dashboarding Tools (Tableau, Power BI) 
 	 - Open-Source Tools: Apache Superset, Redash
 
