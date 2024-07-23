@@ -82,6 +82,9 @@ A comprehensive roadmap and curated resources for aspiring AI Engineers, coverin
     - Distributed Computing Concepts
     - Data Warehouses (Amazon Redshift, Google BigQuery, Snowflake, Azure Synapse)
 
+- [Distributed Systems & Advanced Distributed Systems]()
+
+
 
     
 - [Time Series Analysis]()
@@ -100,18 +103,19 @@ A comprehensive roadmap and curated resources for aspiring AI Engineers, coverin
         - [ANNs]()
         - [Recurrent Neural Networks (RNNs)]()
 
- 
+- [Natural Language Processing (NLP)]()
+- [Transformers]()
+- [Computer Vision/Image Processing]()
+- [Reinforcement Learning]()
+- [Deep Q-Networks]()
+  - Applications
+- [Large Language Modelss]()
 	
 ### Practical Projects
 
  - [300+ Practical Data Science Projects to Practice](https://github.com/cybergeekgyan/Zero-to-AI-Engineer-Roadmap-and-Resources/blob/main/Projects.md)
 
 ### Advanced Topics and Specialization
-- [Natural Language Processing (NLP)]()
-- [Transformers]()
-- Advanced NLP Techniques
-- Computer Vision/Image Processing
-- Object Detection and Segmentation
-- Reinforcement Learning (Advanced)
-- Deep Q-Networks (DQNs)
-  - Applications
+
+- Parallel Computing
+
