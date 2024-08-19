@@ -68,6 +68,25 @@
 ## LLM Projects
 
 
+| Sr. No. | Project Name | Description | Difficulty | Dataset Used | Tools | Notebook/Code | Blog |
+| -------|--------------|---------------|-------------|----------------| ----| ----|----|
+| 01. | [Text Classification with Pretrained Transformers]() | | `Basic`
+| 02. | [Language Generation with GPT]() | |  `Basic`
+| 03. | [Named Entity Recognition(NER) using BERT & Custom Transformer Models]() | | `Basic`
+| 04. | [Question Answering System using BERT or T5]() | | `Intermediate` |
+| 05. | [Summarization with Transformers]() | | `Intermediate` |
+| 06. | [Fine-tune GPT for Chatbots]() | | `Intermediate` 
+| 07. | [Building GPT from Scratch using Python]() | | `Intermediate` |
+| 08. | [Train a Custom LLM from Scratch on Domain-Specific data]() | | `Advanced` |
+| 09. | [RHLF from Instruction Following]() |  | `Advanced` |
+| 10. | [Multimodal Text-and-Image Model]() |  | `Advanced` |
+| 11. | [Building a Data-Augmented Conversational Agent - LLM + Retrieval]() |  | `Advanced` |
+| 12. | [Bias detection, Mitigation and Fairness Analysis in LLMs]() |  | `Advanced` |
+| 13. | [Conversational AI Assistant - Chatbot]() |  | `Advanced` |
+| 14. | [Sentiment Analysis and Aspect-based Sentiment Analysis - ABSA]() |  | `Advanced` |
+| 15. | [Domain-Specific LLM Fine-Tuning and Deployment]() |  | `Advanced` |
+
+
 
 
 
