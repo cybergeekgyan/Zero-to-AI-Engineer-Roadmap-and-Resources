@@ -2,6 +2,11 @@
 
 ![mlops-architecture](https://cloud.google.com/static/architecture/images/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning-4-ml-automation-ci-cd.svg)
 
+## ML Model Life Cycle
+
+![model-life-cycle](https://github.com/user-attachments/assets/098d0792-ddc1-47ab-92b8-1b10a7e32c16)
+
+
 ## 📚 MLOps Books
 
 - [Building Machine Learning Powered Applications]()
