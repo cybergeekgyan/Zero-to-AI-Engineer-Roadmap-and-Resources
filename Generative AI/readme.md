@@ -4,10 +4,20 @@ Generative Models like GANs and VAEs are the core of GenAI. These models can cre
 
 ## ☑️ Key Topics:
 
+- [Applied Mathematics]() : Linear Algebra, Calculus, Probability & Statistics, Information Theory, Decision Theory
+- [Data Engineering]()
+- [Machine Learning & Deep Learning]()
+- [Data Structures & Algorithms]()
+- [Matural Language Processing (NLP)]()
+- [Large-language Models(LLMs)]()
 - [Autoencoders](): Basic and variational autoencoders.
 - [Generative Adversarial Networks (GANs)](): Standard GANs, conditional GANs, CycleGAN, StyleGAN.
 - [Diffusion Models](): Understanding and applications in generative tasks.
 - [Transformers in Generative AI](): Text, image, and code generation.
+- [Computer Vision]()
+- [Speech & Audio Processing]()
+- [Reinforcement Learning]()
+- [Ethics & Responsible AI]()
 
 ## 📚 Books
 
@@ -51,19 +61,42 @@ Generative Models like GANs and VAEs are the core of GenAI. These models can cre
 
 ## 🧰 Tools & Technologies
 
-- [ML & DL Frameworks](): Tensorflow, PyTorch, Keras, Hugging Face Transformers
-- [Data Processing & ETL](): Pandas, Numpy, SQL, Apache Spark/PySpark, Airflow, Apache Kafka
+- [Programming Languages](): Python(primarily), Java/Scala(*any one for large scale application*)
+- [ML & DL Frameworks](): Scikit-learn, Tensorflow, PyTorch, Keras, Hugging Face Transformers
+- [Data Processing & ETL](): Pandas, Numpy, SQL, Apache Spark/PySpark, Airflow, Apache Kafka(*for real-time*)
 - [Data Visualization & Analysis Tools](): Matplotlib, Seaborn, Tableau, TensorBoard, PowerBI
 - [NLP Tools](): spaCy, NLTK, StanfordNLP
+- [Version Control](): Git, DVC
 - [Other Tools](): Flask, REST API, FastAPI, gRPC, Langchain, OpenAI API, Google Jax, Flax
 - [CV Tools](): OpenCV, Detectron2, Tensorflow Object Detection API
-- [Data Warehouses](): Snowflake, BigQuery, Redshift
-- [MLOps](): MLFlow, Docker, Kubernetes, Kubeflow, ONNX, TensorRT
+- [Databases & Warehouses](): PostgreSQL, MongoDB, ElasticSearch, Snowflake, BigQuery, Redshift
+- [MLOps](): MLFlow, Docker, Kubernetes, Kubeflow, ONNX, TensorRT, CI/CD Tools, Weights & Biases
 - [Cloud Services](): AWS Sagemaker, Azure ML, GCP AutoML, Google AI platform
 - [Monitoring](): Prometheus, Grafana, ELK Stack
 
 
+## 🧭 GenAI Projects 
+
+| Project Name | Description | Tools | Link | Blog |
+| -------------|-------------|------|--------|-----|
+| [LLM based Natural Language to SQL Query Generator]() 
+| [Building a GPT-3.5 Backed Customer Support Chatbot]() 
+| [Fine-tune a Mistral 7B on your own dataset]() 
+[ [Creating a YouTube Video Summarization App]()
+| [Text Generation Using LSTM]() | 
+| [Image Generation using GANs]() |
+| [Neural Style Transfer]() 
+| [Text Summarization using Transformers]() |
+| [Image-to-Image Translation using Condional GANs(CycleGAN)]() 
+| [Chatbot using GPT 3.5]() 
+| [Music Generation Using RNN and LSTM]() 
+| [Text to Image Generation using DALL-E/CLIP]() 
+| [Diffusion Models for Image Synthesis]() 
+| [Fine-Tuning GPT-3 for Custom Applications]() 
+| [Reinforcement Learning for AI Game Agents]() 
+| [Generative AI for Video Synthesis(VideoGAN, TGAN]() 
+| [AI-generated Art Using GANs and Neural Networks]()
 
 
 
-## GenAI Projects 
+
