@@ -82,7 +82,7 @@ Generative Models like GANs and VAEs are the core of GenAI. These models can cre
 | [LLM based Natural Language to SQL Query Generator]() 
 | [Building a GPT-3.5 Backed Customer Support Chatbot]() 
 | [Fine-tune a Mistral 7B on your own dataset]() 
-[ [Creating a YouTube Video Summarization App]()
+| [Creating a YouTube Video Summarization App]()
 | [Text Generation Using LSTM]() | 
 | [Image Generation using GANs]() |
 | [Neural Style Transfer]() 
