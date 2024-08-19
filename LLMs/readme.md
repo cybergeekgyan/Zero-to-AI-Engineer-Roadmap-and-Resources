@@ -17,6 +17,7 @@
 - [Deep Learning with PyTorch]()
 - [NLP with Transformers]()
 - [Grokking Transformers]()
+- [Generative AI with LangChain]()
 
 
 ## 📎 Research Papers To Read
@@ -27,7 +28,6 @@
 | 2018-06 | [Improving Language Understanding by Generative Pre-Training](https://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf) | `GPT 1.0` |
 | 2018-10 | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://aclanthology.org/N19-1423.pdf) | `BERT` |
 | 2020-05 | [Language Models are Few-Shot Learners](https://papers.nips.cc/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf) | `GPT 3.0` |
-
 
 
 
@@ -46,7 +46,8 @@
 - https://huggingface.co/blog
 - [Cohere](https://cohere.com/llmu?_gl=1*1wvaezx*_ga*MTMxMjI2NTczOC4xNzI0MDcwOTM4*_ga_CRGS116RZS*MTcyNDA3MDkzNi4xLjEuMTcyNDA3MTAyNC40MC4wLjA.*_gcl_au*Nzg4ODI1MjUyLjE3MjQwNzA5Mzk)
 
-## 🧰 LLMs Tools & Technologies
+
+## 🧰 Tools & Technologies
 
 - [Programming Languages](): Python, Go/Java/Scala(For large-scale)
 - [Libraries](): NumPy, Pandas, Matplotlib, Seaborn, Spacy, nltk
@@ -64,19 +65,7 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 ## LLM Projects
-
 
 
 
