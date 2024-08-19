@@ -33,6 +33,10 @@
 
 ## Resources & Blogs 
 
+- https://www.cs.princeton.edu/courses/archive/fa1122/cos597G/
+- https://mlabonne.github.io/blog/https://youtu.be/kCc8FmEb1nÝ
+- [Let's Build GPT](https://www.youtube.com/watch?v=kCc8FmEb1nY&pp=ygUObGV0cyBidWlsZCBncHQ%3D)
+- https://jaykmody.com/blog/gpt-from-scratch/
 
 
 ## 🧰 LLMs Tools & Technologies
