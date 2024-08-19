@@ -37,10 +37,30 @@
 - https://mlabonne.github.io/blog/https://youtu.be/kCc8FmEb1nÝ
 - [Let's Build GPT](https://www.youtube.com/watch?v=kCc8FmEb1nY&pp=ygUObGV0cyBidWlsZCBncHQ%3D)
 - https://jaykmody.com/blog/gpt-from-scratch/
-
+- [Creating a LLM from scratch with Python](https://youtu.be/UU1WVnMk4E8)
+- https://stanford-cs324.github.io/winter2022/
+- https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mamba-and-state?utm_source=multiple-personal-recommendations-email&utm_medium=email&open=false
+- https://thegradient.pub
+- https://distill.pub
+- https://jalammar.github.io
+- https://huggingface.co/blog
+- [Cohere](https://cohere.com/llmu?_gl=1*1wvaezx*_ga*MTMxMjI2NTczOC4xNzI0MDcwOTM4*_ga_CRGS116RZS*MTcyNDA3MDkzNi4xLjEuMTcyNDA3MTAyNC40MC4wLjA.*_gcl_au*Nzg4ODI1MjUyLjE3MjQwNzA5Mzk)
 
 ## 🧰 LLMs Tools & Technologies
 
+- [Programming Languages](): Python, Go/Java/Scala(For large-scale)
+- [Libraries](): NumPy, Pandas, Matplotlib, Seaborn, Spacy, nltk
+- [Data Processing Tools](): Pandas, Apache Spark, Polars
+- [Deep Learning Frameworks](): PyTorch, TensorFlow, Keras
+- [Model Training & Optimization Tools](): DeepSeed, TensorRT, Mixed Precision Training
+- [Distributed Training Tools](): Horovod, Ray
+- [Model Deployment Technologies](): ONNX, Triton, FastAPI, Docker, Kubernetes
+- [Model Serving](): AWS SageMaker, HuggingFace Inference API
+- [Evaluation & Testing Tools](): MLFlow, Kubeflow, W&B
+- [Large-Scale Data Storage](): Google BigQuery, AWS RedShift
+- [Datalake Technologies](): S3, Hadoop
+- [Cloud Platforms](): AWS, GCP, Azure
+- [Ethical AI & Bias Mitigation Tools](): IBM AI Fairness 360, Microsoft Fairlearn
 
 
 
