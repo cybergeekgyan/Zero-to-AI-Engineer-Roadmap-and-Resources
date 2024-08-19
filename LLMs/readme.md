@@ -21,10 +21,12 @@
 
 ## 📎 Research Papers To Read
 
-- [Attention is All You Need](http://arxiv.org/pdf/1706.03762)
-- [Improving Language Understanding by Generative Pre-Training](https://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf)
-- [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://aclanthology.org/N19-1423.pdf)
-- [Language Models are Few-Shot Learners](https://papers.nips.cc/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf)
+| Year | Paper | Keywords | Code | Blog |
+| -----| ------|---------|-------|-----|
+| 2017-06 | [Attention is All You Need](http://arxiv.org/pdf/1706.03762) | `Transformers` | 
+| 2018-06 | [Improving Language Understanding by Generative Pre-Training](https://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf) | `GPT 1.0` |
+| 2018-10 | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://aclanthology.org/N19-1423.pdf) | `BERT` |
+| 2020-05 | [Language Models are Few-Shot Learners](https://papers.nips.cc/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf) | `GPT 3.0` |
 
 
 
