@@ -20,15 +20,20 @@
 
 ## 📚 Books
 
--Linear Algebra for Computer Vision, Robotics, and Machine learning]()
+- [Linear Algebra for Computer Vision, Robotics, and Machine learning]()
+- [Computer Vision: Algorithms and Applications]()
 - [Deep Learning for Computer Vision]()
+- [Deep learning in computer vision: principles and applications]()
 - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow]()
-- [Computer Vision-Principles, Algorithms, Applications]()
+- [Computer Vision - Principles, Algorithms, Applications]()
+- [Numerical Algorithms: Methods for Computer Vision, Machine Learning, and Graphics]()
 - [Algorithms for Image Processing & Computer Vision]()
 - [Explainable and Interpretable Models in Computer Vision and Machine Learning]()
 - [Applied Computer Vision and Soft Computing with Interpretable AI]()
 - [Feature Extraction and Image Processing for Computer Vision]()
 - [Practical Deep Learning for Cloud, Mobile, and Edge]()
+- [Practical Machine Learning for Computer Vision: End-to-End Machine Learning for Images]()
+- [Computer Vision Using Deep Learning: Neural Network Architectures with Python and Keras]()
 - [Programming Computer Vision with Python]()
 - [Deep Learning]()
 - [Multiple View Geometry in Computer Vision]()
