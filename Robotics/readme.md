@@ -5,7 +5,7 @@
 
 ## 👀 Key Topics & Concepts
 
-- [Programming Languages](): C/C++, Python
+- [Programming Languages](): C/C++, Python, Matlab
 - [Mathematics](): Linear Algebra, Calculus, Probability & Statistics, Differential Equations, Discrete Mathematics
 - [Physics](): Kinematics & Dynamics, Mechanics, Electromagnetism, Thermodynamics
 - [Control Systems](): Classical Control Theory, Modern Control Systems, Optimal Control, NonLinear Control, Adaptive and Robust Control
@@ -15,7 +15,9 @@
 - [Computer Science](): Algorithms, Data Structures, AI & Machine learning, Computer Vision, Localization & Mapping, Motion Planning, ROS, SLAM
 - [Artificial Intelligence & Machine Learning](): Reinforcement learning, Neural Networks, NLP, Robotics perceptron
 - [Sensors & Actuators](): Sensors(LIDAR, Ultrasonic, Infrared, Cameras, IMU, Force Sensors), Actuators(Servos, DC Motors, Stepper Motors, Hydraulic Systems, Pneumatics)
-- [
+- [Robotics Fields & Applications](): Humanoid Robots, Industrial Robots, Medical Robots, Autonomous Robots, Swarm Robotics, Soft Robotics
+- [Ethics & Safety in Robotics](): Robot Safety Protocols, Ethics in AI & Robotics
+- [Human-Robot Interaction(HRI)](): User Experience(UX), Voice and Gesture Recognition
 
 ## 📚 Books
 
