@@ -67,7 +67,34 @@
 
 
 
-## Projects
+## 🕹️ Projects
 
 | Project Name | Description | Tools | Difficulty Level | Link | Blog |
 | -----------|-----------|---------|---------|---------|---------|
+| [Building Image Classification Model using CNNs]() |
+| [Edge Detection with OpenCV]()
+| [Face Detection with Haar Cascades]()
+| [Object Tracking with Meanshift and Camshift]()
+| [Handwritten Digit Recognition]()
+| [Building an Object Detection Model using YOLO or SSD]()
+| [Building an Image Segmentation Model using U-Net]() 
+| [Image based Search and Recommendation System]()
+| [Face Recognition System]()
+| [Image Anomaly Detection]()
+| [Image Super-Resolution]()
+| [Lane Detection for self-driving cars]()
+| [Pose Estimation usng OpenPose]()
+| [Autonomous Vehicle - Simulated Environment]()
+| [Video Analytics]()
+| [3D Object Reconstruction]()
+| [Real-Time Object Detection and Tracking in Drones]()
+| [Medical Image Analysis - Healthcare using AI]()
+| [GANs for Image Generation]()
+| [Multi-Agent Collaboration in Vision Tasks]()
+| [Explainable AI for Computer Vision]()
+
+
+
+
+
+
