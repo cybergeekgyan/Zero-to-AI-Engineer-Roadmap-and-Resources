@@ -91,7 +91,7 @@ A comprehensive roadmap and curated resources for aspiring AI Engineers, coverin
     
 - [Time Series Analysis]()
 
-### 🟢 Core AI Concepts
+### 🟢 DeepAI Topics & Concepts
 
 - [Machine Learning]()
 	 - [Supervised Learning]()
@@ -104,14 +104,14 @@ A comprehensive roadmap and curated resources for aspiring AI Engineers, coverin
 	- [Convolutional Neural Networks (CNNs)]()
         - [ANNs]()
         - [Recurrent Neural Networks (RNNs)]()
-
-- [Natural Language Processing (NLP)]()
-- [Transformers]()
 - [Computer Vision/Image Processing]()
+- [Natural Language Processing & Transformers]()
+- [Large Language Models(LLMs)]()
+- [Robotics]()
 - [Reinforcement Learning]()
 - [Deep Q-Networks]()
   - Applications
-- [Large Language Modelss]()
+
 	
 ### Practical Projects
 
