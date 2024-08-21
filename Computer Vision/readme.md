@@ -43,7 +43,9 @@
 
 ## 🧻 Research Papers
 
-- 
+- [ImageNet Classification with Deep Convolutional Neural Networks]()
+- [You Only Look Once (YOLO): Unified, Real-Time Object Detection]()
+- [R-CNN: Region-Based Convolutional Networks for Accurate Object Detection and Segmentation]()
 
 
 
@@ -74,11 +76,11 @@
 
 ## 📎 Resources & Blogs
 
-
-
-
-
-
+- [OpenCV Python Tutorials](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html)
+- [OpenCV Workshop - Free](https://opencv.org/university/free-opencv-course/?utm_source=lopcv&utm_medium=menu&utm_campaign=obc)
+- [Papers with Code - Computer Vision](https://paperswithcode.com/methods/area/computer-vision) 
+- [PyImageSearch - Free Tutorials](https://pyimagesearch.com)
+- [Deep Learning Specialization by Andrew NG - Coursera](https://www.coursera.org/specializations/deep-learning#courses)
 
 
 
