@@ -72,7 +72,8 @@ To become a Robotics Engineer in 2024, you’ll need to have a strong understand
 
 - [IEEE Transactions on Robotics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8860)
 - [International Journal of Robotics Research](https://journals.sagepub.com/home/ijr)
-
+- [ICRA - Conference]()
+- [Robotics Science and Systems(RSS)]()
 
 ## Hands-On Platforms and Kits
 
