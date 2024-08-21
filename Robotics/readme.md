@@ -1,6 +1,6 @@
 # 🔥 Robotics
 
-
+To become a Robotics Engineer in 2024, you’ll need to have a strong understanding of several interdisciplinary topics. Here’s a detailed list of topics and concepts that you should focus on:
 
 
 ## 👀 Key Topics & Concepts
@@ -91,3 +91,44 @@
 
 
 ## 🟢 Robotics Projects
+
+| Project Name | Description | Tools | Difficulty level | Tags | Link | Blog |
+| -----------|-----------|--------|--------|-------|-------|-------|
+| [Build an obstacle Avoidance Robot]() | Build a simple robot using an ultrasonic sensor to detect and avoid obstacles | `Arduino`, `Ultrasonic Sensor`, `Servo Motors`, `C/C++` | `Beginner`
+| [Line Following Robot]() | Create a robot that follows a line using infrared sensors | `Arduino`, `IR Sensors`, `Motors`, `C/C++` | `Beginner`
+| [Basic Robotic Arm]() | Build a simple robotic arm with a few degrees of freedom (DOF) that can pick up and place objects | `Arduino`, `Servo Motors`, `3D-printed parts`, `C/C++` | `Beginner`
+| [Self-balancing Robot]() | Build a robot that can balance on two wheels using a gyroscope and accelerometer | `Arduino`, `MPU6050 (Gyroscope + Accelerometer)`, `Motors`, `C/C++`, `Python` | `Beginner` |
+| [Maze-Solving Robot]() | Build a robot that can navigate a maze using sensors and mapping algorithms | `Arduino`, `Raspberry Pi`, `Distance Sensors`, `Motors`, `Python`, `C++` | `Intermediate`|
+| [Voice-Controlled Robot]() | Create a robot that can be controlled via voice commands | `Raspberry Pi`, `Arduino`, `Google Speech API`, `Python`, `C++` | `Intermediate`|
+| [3D Mapping and Localization Robot]() | Build a robot that can map its environment in 3D and localize itself using sensors like LiDAR | `Raspberry Pi`, `NVIDIA Jetson Nano`, `ROS`, `LiDAR`, `Python`, `C++` | `Intermediate`|
+| [Robotic Gripper with Force Sensing]() | Build a gripper that can detect the force being applied to an object and adjust its grip accordingly | `Arduino`, `Force Sensors`, `Servo Motors`, `C/C++`, `Python` | `Intermediate`|
+| [Autonomous Navigation Robot]() | Build a fully autonomous robot that can navigate an environment using sensor data and artificial intelligence | `NVIDIA Jetson Nano`, `ROS`, `Gazebo`, `LiDAR`, `Camera`, `Python`, `C++`, `OpenCV` | `Advanced` |
+| [Humanoid Robot]() | Create a humanoid robot with multiple joints that can perform simple tasks like walking or picking up objects | `ROS`, `Arduino`, `Raspberry Pi`, `Servo Motors`, `C/C++`, `Python` | `Advanced` |
+| [Swarm Robotics]() | Build a swarm of robots that can collaborate to complete a task like object transportation or search and rescue | `Arduino`, `Raspberry Pi units`, `Wireless Communication (e.g., ZigBee, RF)`, `Python`, `ROS` | `Advanced` |
+| [Vision-Based Robot for Object Detection and Sorting]() | Create a robot that uses computer vision to detect and sort objects based on color, size, or shape | `Raspberry Pi`, `NVIDIA Jetson`, `Camera`, `OpenCV`, `TensorFlow`, `Python` | `Advanced` |
+| [Robotics Exoskeleton]() | Design and build a robotic exoskeleton that can assist or enhance human movement | `Servo Motors`, `Sensors (e.g., pressure, force)`, `Microcontrollers(Arduino)`, `Python`, `ROS` | `Advanced` |
+| [Medical Robotics: Autonomous Surgical Assistant]() | Design a robotic system that assists in surgeries by performing tasks like suturing, cutting, or precise movements under control | `ROS`, `Python`, `C++`, `Force Sensors`, `Cameras, Actuators` | `Advanced` |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
