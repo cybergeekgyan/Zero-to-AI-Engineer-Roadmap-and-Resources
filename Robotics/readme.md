@@ -45,6 +45,12 @@
 - [Modern Robotics: Mechanics, Planning, and Control - Coursera]()
 - [Robotics Software Engineer Nanodegree - Udacity]()
 - [Artificial Intelligence: Principles and Techniques - Stanford Online]()
+- [RobotShop Blog](https://community.robotshop.com/blog)
+- [Robohub](https://robohub.org)
+- [IEEE Spectrum: Robotics](https://spectrum.ieee.org/topic/robotics/)
+- [Willow Garage Blog(ROS Blog)](https://www.ros.org/news/)
+- [All About Circuits: Robotics]()
+- [The Construct blog](https://www.theconstruct.ai/blog/)
 
 
 ## 🧰 Tools & Technologies
