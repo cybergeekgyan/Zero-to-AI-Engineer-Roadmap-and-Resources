@@ -38,15 +38,25 @@
 
 ## 🧻 Research Papers
 
-
+- 
 
 
 
 
 ## 🧰 Tools
 
-
-
+- [Programming Languages](): C++, Python, Matlab, Javascript(web-based), CUDA(C/C++)
+- [Data Processing Tools](): Numpy, Pandas, Pillow(PIL), Dlib, Albumentations
+- [Data Visualization Tools](): Matplotlib, Seaborn, Tableau, Plotly, PowerBI, TensorBoard
+- [Computer Vision Libraries](): OpenCV, scikit-image, SimpleCV, Mahotas
+- [Deep Learning Frameworks](): Tensorflow, Keras, PyTorch, Darknet(for YOLO), MXNet, Detectron2
+- [Cloud & Distributed Computing](): AWS Sagemaker, Google Cloud AI Platform, Microsoft Azure
+- [Embedded and Real-Time Systems](): NVIDIA Jetson, OpenVINO, Tensorflow Lite
+- [3D Vision & Graphics](): Open3D, Blender
+- [Annotation Tools](): Lablellmg, COCO Dataset, Labelbox
+- [Version Control](): Git, GitHub, DVC
+- [Project Management & Experiment Tracking](): Weights & Biases(W&B), MLFlow
+- [Web-Application Tools](): Flask, Streamlit, Django, FastAPI, RESTAPIs
 
 
 
