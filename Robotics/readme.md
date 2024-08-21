@@ -21,12 +21,30 @@
 
 ## 📚 Books
 
+| Book Name | Tags | 
+| -------|------|
+| [Introduction to Robotics: Mechanics and Control]() 
+| [Robot Modeling and Control]()
+| [Robotics, Vision, and Control: Fundamental Algorithms in MATLAB]()
+| [Python Robotics Projects]()
+| [Robotics: Everything You Need to Know About Robotics from Beginner to Expert]()
+| [Principles of Robot Motion: Theory, Algorithms, and Implementations]()
+| [Probabilistic Robotics]() 
+| [Robotic Manipulation]() 
+| [Modern Robotics: Mechanics, Planning, and Control]()
+| [Reinforcement Learning: An Introduction]()
+
+
 
 
 
 ## 📎 Resources & Blogs
 
-
+- [MIT OpenCourseWare: Introduction to Robotics]()
+- [ntroduction to Robotics - Coursera]()
+- [Modern Robotics: Mechanics, Planning, and Control - Coursera]()
+- [Robotics Software Engineer Nanodegree - Udacity]()
+- [Artificial Intelligence: Principles and Techniques - Stanford Online]()
 
 
 ## 🧰 Tools & Technologies
@@ -35,7 +53,22 @@
 
 
 
-## 🧻 Research Papers
+## 🧻 Research Papers & Journals
+
+- [IEEE Transactions on Robotics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8860)
+- [International Journal of Robotics Research](https://journals.sagepub.com/home/ijr)
+
+
+## Hands-On Platforms and Kits
+
+- `TinkerCAD`
+- `Arduino Project Hub`
+- `VEX Robotics`
+- `LEGO Mindstorms Education`
+
+
+
+
 
 
 
