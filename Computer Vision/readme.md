@@ -5,8 +5,9 @@
 ## 🗝️ Key Topics
 
 - [Intro to Computer Vision](): Overview & Understanding of the field, its Applications and real-world problems, Basic Terminology
-- [Image Processing Fundamentals](): Image Representation, Basic Operations, Image Transformation, Histogram Processing
-- [Feature Extraction](): Keypoint Detection, Feature Descriptors, Feature Matching
+- [Image Processing Fundamentals](): Image Representation, Basic Image Operations, Image Filtering, Digital Morphology, Image Transformation, Histogram Processing
+- [Feature Extraction](): Keypoint Detection, Edge Detection, Feature Detection, Feature Descriptors, Feature Matching
+- [Texture Analysis](): Basic approaches to texture analysis, Graylevel co-occurence matrix, Laws' texture energy approach, Ade's Eigenfilter approach
 - [Machine Learning for Computer Vision](): Basic ML Concepts, Feature Engineering, Model Evaluation Metrics
 - [Deep Learning for Computer Vision](): Neural Networks(perceptrons, activation-functions), CNNs, Architectures(LeNet, AlexNet, ResNet, Inception, MobileNet), Transfer Learning(pre-trained models & fine-tuning)
 - [Advanced Computer Vision Techniques](): Object Detection(YOLO, SSD, Faster R-CNN), Object Tracking(Kalman Filters, Mean-Shift, Particle Filters, SORT), Segmentation(semantic segmentation & Instance Segmentation, Image Generation(GANs, VAEs)
@@ -17,29 +18,46 @@
 - [Ethics & Bias](): Addressing Fairness, privacy, and bias in Computer vision systems.
 
 
+## 📚 Books
+
+-Linear Algebra for Computer Vision, Robotics, and Machine learning]()
+- [Deep Learning for Computer Vision]()
+- [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow]()
+- [Computer Vision-Principles, Algorithms, Applications]()
+- [Algorithms for Image Processing & Computer Vision]()
+- [Explainable and Interpretable Models in Computer Vision and Machine Learning]()
+- [Applied Computer Vision and Soft Computing with Interpretable AI]()
+- [Feature Extraction and Image Processing for Computer Vision]()
+- [Practical Deep Learning for Cloud, Mobile, and Edge]()
+- [Programming Computer Vision with Python]()
+- [Deep Learning]()
+- [Multiple View Geometry in Computer Vision]()
+- [Learning OpenCV4]()
 
 
 
-## Books
-
-
-
-
-## Tools
-
-
-
-
-
-## Research Papers
+## 🧻 Research Papers
 
 
 
 
 
 
+## 🧰 Tools
 
-## Resources & Blogs
+
+
+
+
+
+
+
+
+
+
+
+
+## 📎 Resources & Blogs
 
 
 
@@ -50,3 +68,6 @@
 
 
 ## Projects
+
+| Project Name | Description | Tools | Difficulty Level | Link | Blog |
+| -----------|-----------|---------|---------|---------|---------|
