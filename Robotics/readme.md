@@ -5,7 +5,7 @@
 
 ## 👀 Key Topics & Concepts
 
-- [Programming Languages](): C/C++, Python, Matlab
+- [Programming Languages](): C/C++, Python, Java, Matlab/Simulink
 - [Mathematics](): Linear Algebra, Calculus, Probability & Statistics, Differential Equations, Discrete Mathematics
 - [Physics](): Kinematics & Dynamics, Mechanics, Electromagnetism, Thermodynamics
 - [Control Systems](): Classical Control Theory, Modern Control Systems, Optimal Control, NonLinear Control, Adaptive and Robust Control
@@ -35,9 +35,6 @@
 | [Reinforcement Learning: An Introduction]()
 
 
-
-
-
 ## 📎 Resources & Blogs
 
 - [MIT OpenCourseWare: Introduction to Robotics]()
@@ -55,8 +52,20 @@
 
 ## 🧰 Tools & Technologies
 
-
-
+- [Programming Languages](): Python, C/C++, java, Matlab/Simulink, Golang
+- [Robotics Frameworks & Libraries](): ROS(ROS2, RViz, Gazebo), YARP, LCM
+- [Embedded Systems](): Arduino, Raspberry Pi, ESP32, STM32, Jetson Nano/Jetson Xavier
+- [Robot Simulation Software](): Gazebo, V-REP(CoppeliaSIm), Webots, Unity/Unreal Engine, MORSE
+- [Mechanical Design Tools](): SoldiWorks, AutoCAD, Fusion 360, Blender
+- [Control & Automation Software](): LabVIEW, Simulink, SimMechanics, PID Controllers
+- [AI & Machine Learning Libraries](): Tensorflow, Keras, PyTorch, Scikit-learn, Rlib, Gym
+- [Computer Vision & Image Processing](): OpenCV, YOLO(Detectron2), PCL, TensorRT, SLAM(GMapping, RTAB-Map, ORB-SLAM2)
+- [Hardware & Electronics Tools](): KiCad/Eagle, Mutisim, Oscilloscopes/Multimeters, 3D Printers, Soldering Kits
+- [RTOS](): FreeRTOS, VxWorks, ChibiOS, RTLinux
+- [Networking & IOT Technologies](): MQTT, Zigbee/Z-Wave, ROSBridge
+- [Version Control Tools](): Git, GitHub, GitLab/GitBucket
+- [Cloud Platforms](): AWS RoboMaker, Google Cloud Robotics, Azure IOT for Robotics
+- [Testing & Debugging Tools](): GDB, Valgrind, ROS Logs/Diagnostics
 
 
 ## 🧻 Research Papers & Journals
@@ -71,12 +80,14 @@
 - `Arduino Project Hub`
 - `VEX Robotics`
 - `LEGO Mindstorms Education`
+- `TurtleBot`
+- `UR5/UR10 by Universal Robots`
+
+## Simulation Environments for AI-Robotics
+
+- [CARLA Simulator](): Open-source simulator for autonomous driving research.
+- [AI2-THOR](): Interactive environment for training robots using AI for tasks like navigation and object manipulation.
 
 
 
-
-
-
-
-
-## 🟢 Projects
+## 🟢 Robotics Projects
