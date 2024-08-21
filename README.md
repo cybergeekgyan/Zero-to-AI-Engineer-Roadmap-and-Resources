@@ -122,5 +122,9 @@ A comprehensive roadmap and curated resources for aspiring AI Engineers, coverin
 
 ### Advanced Topics and Specialization
 
-- Parallel Computing
+- [Distributed & Parallel Computing]()
+
+## Interview Preparation for AI Engineer Roles
+
+- 
 
