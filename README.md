@@ -17,16 +17,19 @@ A comprehensive roadmap and curated resources for aspiring AI Engineers, coverin
 
 ### 💻 Computer Science Fundamentals
 
+- Linux, Bash
 - [Programming Languages]()
   - [Python]()
   - [R]()
+  - [C/C++]()
+  - [Matlab]() - *optional*
 - [Data Structures and Algorithms]()
 - [Object Oriented Programming Concepts(OOPS)]()
-- [SQL and DBMS]()
+- [SQL and Databases(DBMS)]()
 - [Computer Networks]()
 - [Operating Systems]()
 - [Computer Architecture]()
-- [Compilers]() - *not necessary*
+- [Compilers]() - *optional*
 
 ### 🔥 Data Concepts
 
