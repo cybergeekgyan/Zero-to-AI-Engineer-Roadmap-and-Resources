@@ -3,8 +3,8 @@
 
 ## 👀 Key Topics
 
-- [Programming Languages](): Python, Java/Scala, SQl
-- [Fundamentals of Data Engineering]()
+- [Programming Languages](): Python, Java/Scala, SQL
+- [Fundamentals of Data Engineering & Big Data]()
 - [Big Data Ecosystem and Frameworks](): Hadoop(HDFS, MapReduce, YARN), Apache Spark, Hive, Pig, HBase, Kafka
 - [Data Storage & Management](): Relational Databases(MySQL, PostgreSQL), NoSQL(MongoDB, Cassandra), Data Lakes, Data Warehouses(Snowflake, RedShift, BigQuery)
 - [Data Ingestion & ETL/ELT](): ETL Tools(Apache Nifi, Talend, Informatica), Stream Processing(Apache Flink, Storm), Data Pipelines(Airflow, Luigi, Prefect)
@@ -16,7 +16,7 @@
 - [Real-Time Data Processing](): Apache Kafka, Apache Flink, Apache Storm
 - [Batch Processing](): Understanding of Hadoop & Spark, Optimizing techniques for large Batch Processing Jobs
 - [Data Governance & Security](): Data Encryption, GDPR, HIPAA, Kerberos, Ranger, Knox
-- [Data Quality]():
+- [Data Quality, Catalog & Metadata Management](): Apache Griffin, Apache Atlas, AWS Glue Data Catalog
 - [CI/CD for Data Pipelines](): Jenkins, Github Actions, GitLab CI, Circle CI
 - [Monitoring & Performance Optimization](): Prometheus, Grafana(for monitoring data pipelines), Spark UI, Ganglia, Nagios(monitoring performance in Hadoop/Spark ecosystems)
 - [DevOps for Data Engineering](): Docker, Kubernetes
@@ -48,3 +48,7 @@
 
 
 ## 🟢 Projects
+
+| Project Name | Description | Tools | Tags | Difficulty level | Link | Blog |
+| --------|-------|-----|-------|-------|-----|-------|
+| 
