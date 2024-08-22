@@ -23,15 +23,6 @@
 - [Machine Learning in Big Data](): Using Spark MLlib, Hadoop Mahout for large scale machine learning
 
 
-
-
-## 🧰 Tools & Technologies
-
-- [Programming Languages](): 
-
-
-
-
 ## 🧻 Research Papers
 
 
@@ -40,6 +31,33 @@
 
 
 ## 📎 Resources & Blogs
+
+
+
+
+
+
+## 🧰 Tools & Technologies
+
+- [Programming Languages](): Python(Numpy, Pandas), Java/Scala, SQL
+- [Big Data Processing Frameworks](): Apache Hadoop(HDFS, MapReduce, YARN), Apache Spark(Spark Core, Spark SQL, Spark Streaming, Spark MLlib, PySpark)
+- [Data Visualization Tools](): Tableau, PowerBI, Superset, Looker
+- [Data Storage & Management Tools](): HDFS, NoSQL Databases(HBase, MongoDB, Cassandra), Relational Databases(MySQL, PostgreSQL), Data Lakes(AWS S3, Azure Data lake, Google Cloud Storage), Data Warehouses(Snowflake, Redshift, BigQuery)
+- [Data Ingestion & ETL Tools](): Apache Nifi, Apache Flume, Talend, Informatica, Airbyte, Apache Sqoop
+- [Real-Time Data Streaming Tools](): Apache Kafka, Apache Flink, Apache Storm, Kinesis(AWS), Kafka Streams
+- [Workflow Orchestration Tools](): Airflow, Luigi, Prefect, Dagster
+- [File Formats for Big Data](): Avro, Parquet, ORC, JSON, CSV
+- [Cloud Platforms & Services](): AWS(EMR, S3, RedShift, Kinesis, Glue), Google Cloud(BigQuery, Dataproc, Dataflow), Azure(Azure Data Lake Storage, Azure Synapse Analytics, HDInsight, Azure Databricks)
+- [Containers & Orchestration](): Docker & Kubernetes
+- [Data Pipeline & Integration Tools](): Apache beam, DBT, Luigi, Airflow, Prefect
+- [Monitoring & Logging Tools](): Prometheus, Grafana, ELK Stack, Spark UI
+- [Data Security & Governance](): Apache Ranger, Apache Knox, Kerberos, Atlas
+- [CI/CD Tools](): Jenkins, CircleCI, Travis CI, GitHub Actions
+- [DevOps](): Terraform, Ansible, Puppet/Chef
+- [Version Control](): Git, GitHub, GitLab, DVC
+- [Machine learning and AI Integrations](): Spark MLlib, H20.ai, Tensorflow on Spark
+
+
 
 
 
