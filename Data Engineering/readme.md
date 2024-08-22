@@ -23,18 +23,43 @@
 - [Machine Learning in Big Data](): Using Spark MLlib, Hadoop Mahout for large scale machine learning
 
 
-## 🧻 Research Papers
+## 🧻 Research Papers & Whitepapers
 
+| Title                                                       | Authors                                      | Link                                                                  | Focus Areas                              |
+| ------------------------------------------------------------ | -------------------------------------------- | --------------------------------------------------------------------- | ---------------------------------------- |
+| MapReduce: Simplified Data Processing on Large Clusters      | Jeffrey Dean, Sanjay Ghemawat                | [Read Here](https://research.google.com/archive/mapreduce.html)        | Distributed computing, batch processing  |
+| The Google File System                                       | Sanjay Ghemawat, Howard Gobioff, Shun-Tak Leung | [Read Here](https://research.google/pubs/archive/51.pdf)               | Distributed file systems, fault tolerance, data storage |
+| Dynamo: Amazon’s Highly Available Key-Value Store            | Giuseppe DeCandia et al.                     | [Read Here](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf) | Distributed databases, consistency models, fault tolerance |
+| Bigtable: A Distributed Storage System for Structured Data   | Fay Chang et al.                             | [Read Here](https://research.google.com/archive/bigtable.html)         | Distributed storage, NoSQL databases, scalability |
+| Spanner: Google’s Globally-Distributed Database              | James C. Corbett et al.                      | [Read Here](https://research.google.com/archive/spanner.html)          | Distributed databases, global consistency, scalability |
+| The CAP Theorem                                              | Eric Brewer                                  | [Read Here](https://dl.acm.org/doi/10.1145/3433850)                    | Distributed systems, trade-offs in distributed databases |
+| Paxos Made Simple                                            | Leslie Lamport                               | [Read Here](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf)   | Consensus algorithms, fault tolerance    |
+| Spark: Cluster Computing with Working Sets                   | Matei Zaharia et al.                         | [Read Here](https://www.usenix.org/conference/hotcloud-10/spark-cluster-computing-working-sets) | Cluster computing, in-memory processing, large-scale data processing |
+| The Data Lake: A Foundation for Big Data                     | James Dixon                                 | [Read Here](https://cdn2.hubspot.net/hubfs/2856332/Collateral/Whitepapers/Immuta_Whitepaper_What_is_a_Data_Lake.pdf) | Data lakes, storage systems, data governance |
+| Tenzing: A SQL Implementation on the MapReduce Framework     | Tenzing Research Team                        | [Read Here](https://research.google/pubs/archive/37298.pdf)            | SQL-on-Hadoop, distributed SQL processing |
 
+---
 
+### Cutting-Edge and Advanced Whitepapers (2020s)
 
+| Title                                                       | Authors                                      | Link                                                                  | Focus Areas                              |
+| ------------------------------------------------------------ | -------------------------------------------- | --------------------------------------------------------------------- | ---------------------------------------- |
+| Delta Lake: High-Performance ACID Table Storage over Cloud Object Stores | Michael Armbrust et al.                      | [Read Here](https://delta.io/wp-content/uploads/2020/06/Delta-Lake.pdf) | Data lakes, ACID transactions, cloud storage |
+| DataOps: Delivering Data at Scale                            | Mark Lyons                                   | [Read Here](https://www.ibm.com/cloud/learn/dataops)                   | DataOps, automation, data quality        |
+| Snowflake: The Data Warehouse Built for the Cloud            | Benoit Dageville et al.                      | [Read Here](https://www.snowflake.com/wp-content/uploads/2021/12/Snowflake-Architecture-Paper.pdf) | Cloud data warehousing, scalability, multi-cluster architecture |
+| Beyond Lambda: Data Management in Real-Time Stream Processing Systems | Tyler Akidau et al.                          | [Read Here](https://dl.acm.org/doi/10.1145/2934664)                    | Stream processing, real-time systems, consistency |
+| The Modern Data Stack: From Batch to Real-Time Analytics     | Various                                     | [Read Here](https://www.dbt.com/blog/the-modern-data-stack-whitepaper/) | Real-time analytics, cloud computing, modern data stack |
 
+---
 
-## 📎 Resources & Blogs
+### Further Reading and Specialized Areas
 
+| Title                                                       | Authors                                      | Link                                                                  | Focus Areas                              |
+| ------------------------------------------------------------ | -------------------------------------------- | --------------------------------------------------------------------- | ---------------------------------------- |
+| Lambda Architecture                                         | Nathan Marz                                  | [Read Here](https://lambda-architecture.net/)                          | Batch and stream processing architectures |
+| Presto: SQL on Everything                                   | Martin Traverso et al.                       | [Read Here](https://prestodb.io/docs/current/overview/history.html)    | Distributed SQL engines, query optimization, scalability |
 
-
-
+---
 
 
 ## 🧰 Tools & Technologies
@@ -56,12 +81,6 @@
 - [DevOps](): Terraform, Ansible, Puppet/Chef
 - [Version Control](): Git, GitHub, GitLab, DVC
 - [Machine learning and AI Integrations](): Spark MLlib, H20.ai, Tensorflow on Spark
-
-
-
-
-
-
 
 
 ## 🟢 Projects
