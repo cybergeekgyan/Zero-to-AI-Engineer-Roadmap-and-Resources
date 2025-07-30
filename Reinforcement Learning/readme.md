@@ -186,12 +186,12 @@
 🔹 “Deep Reinforcement Learning with Python” – Sudharsan Ravichandiran<br>
 
 ### 🎥 Courses & Lectures
-🔹 [Stanford CS234: Reinforcement Learning](https://youtu.be/FgzM3zpZ55o?si=bUaZuUGo_t5d5f-r)
-🔹 [CS285: Deep Reinforcement Learning (UC Berkeley)](https://youtube.com/playlist?list=PL_iWQOsE6TfVYGEGiAOMaOzzv41Jfm_Ps&si=xjO44uhnotPCqjIG)
-🔹 [DeepMind x UCL RL Course](https://youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm&si=JjsUQfmbgpaD8l9r)
-🔹 [Spinning Up in Deep RL (OpenAI)](https://www.youtube.com/watch?v=fdY7dt3ijgY&pp=ygUfU3Bpbm5pbmcgVXAgaW4gRGVlcCBSTCAoT3BlbkFJKQ%3D%3D)
-🔹 [MIT 6.S191: Reinforcement Learning](https://youtu.be/to-lHJfK4pw)
-🔹 [Reinforcement Learning - Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQe1JXNvaFvURxGY4gE9k74)
+🔹 [Stanford CS234: Reinforcement Learning](https://youtu.be/FgzM3zpZ55o?si=bUaZuUGo_t5d5f-r)<br>
+🔹 [CS285: Deep Reinforcement Learning (UC Berkeley)](https://youtube.com/playlist?list=PL_iWQOsE6TfVYGEGiAOMaOzzv41Jfm_Ps&si=xjO44uhnotPCqjIG)<br>
+🔹 [DeepMind x UCL RL Course](https://youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm&si=JjsUQfmbgpaD8l9r)<br>
+🔹 [Spinning Up in Deep RL (OpenAI)](https://www.youtube.com/watch?v=fdY7dt3ijgY&pp=ygUfU3Bpbm5pbmcgVXAgaW4gRGVlcCBSTCAoT3BlbkFJKQ%3D%3D)<br>
+🔹 [MIT 6.S191: Reinforcement Learning](https://youtu.be/to-lHJfK4pw)<br>
+🔹 [Reinforcement Learning - Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQe1JXNvaFvURxGY4gE9k74)<br>
 
 ## Projects to Build
 
