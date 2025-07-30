@@ -66,8 +66,8 @@
 
 - 🔹 Policy-Based Methods
     - Policy Gradient Theorem
-	  -	REINFORCE Algorithm
-	  -	Baseline Tricks for Reducing Variance
+    - REINFORCE Algorithm
+    - Baseline Tricks for Reducing Variance
 
 - 🔹 Actor-Critic Methods
     -	Advantage Actor-Critic (A2C)
@@ -149,19 +149,19 @@
 
 - 🔹 Robotics & Control
     -	Robot Arm Manipulation
-	  -	Self-Driving Car Navigation
+    -	Self-Driving Car Navigation
 
 - 🔹 Finance & Trading
     -	Reinforcement Learning for Portfolio Optimization
-	  -	RL for Automated Trading
+    -	RL for Automated Trading
 
 - 🔹 Healthcare & Medicine
     -	RL for Personalized Drug Dosage Optimization
-	  -	AI-Assisted Diagnosis
+    -	AI-Assisted Diagnosis
 
 - 🔹 Optimization Problems
     -	RL for Traffic Signal Optimization
-	  -	RL for Supply Chain Management
+    -	RL for Supply Chain Management
 
 ⸻
 
